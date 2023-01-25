@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matthew Lumsden</h1>
 <h3 align="center">A passionate full-stack software engineer based in Mankato/Minneapolis</h3>
 
-- 🌱 I’m currently learning **API's, OOP, Full-Stack Web Development, etc.**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [mattlumsden229.github.io/MLPortfolio](mattlumsden229.github.io/MLPortfolio)
 
 - 💬 Ask me about **Javascript, React, Node**
 
 - 📫 How to reach me **mattlumsden229@gmail.com**
-
-- ⚡ Fun fact **I am a purple belt in Brazilian Jiu-Jitsu!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
