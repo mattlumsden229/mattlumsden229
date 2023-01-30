@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Lumsden</h1>
 <h3 align="center">A passionate full-stack software engineer based in Mankato/Minneapolis</h3>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [mattlumsden229.github.io/MLPortfolio](mattlumsden229.github.io/MLPortfolio)
 
