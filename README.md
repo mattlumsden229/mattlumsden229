@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matthew Lumsden</h1>
-<h3 align="center">A passionate full-stack software engineer based in Mankato/Minneapolis</h3>
+<h1 align="center">Hi 👋, I'm Matt Lumsden</h1>
+<h3 align="center">A passionate full-stack software engineer based in Minneapolis, MN</h3>
 
 - 🌱 I’m currently learning **React Native**
 
