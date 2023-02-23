@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [mattlumsden.netlify.app](mattlumsden229.github.io/MLPortfolio)
+- 👨‍💻 All of my projects are available at [mattlumsden.netlify.app](mattlumsden.netlify.app)
 
 - 💬 Ask me about **Javascript, React, Node**
 
